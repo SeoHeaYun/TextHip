@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271312896462",
+    "project_id": "texthip-9fc8f",
+    "storage_bucket": "texthip-9fc8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271312896462:android:e45c0d37f650b073d5ab9f",
+        "android_client_info": {
+          "package_name": "com.example.texthip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8iGa7ASXBVxZ6ye7JLL7KrvEJ2kJcGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
